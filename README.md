@@ -7,7 +7,7 @@ I'm passionate about building intelligent systems that turn data into actionable
 ---
 
 ## 🌟 Portfolio
-🔗 **[Check out my portfolio](https://pedro-brito-portfolio-5e3khpt6h-pedrogf45s-projects.vercel.app)** — A space-themed showcase of my projects and journey
+🔗 **[Check out my portfolio](https://pedro-brito-portfolio.vercel.app)** — A space-themed showcase of my projects and journey
 
 ## 💼 What I Do
 
