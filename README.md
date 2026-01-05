@@ -42,7 +42,7 @@ Full-stack RPE tracking with JWT authentication, MongoDB backend, and React dash
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0C1B?style=for-the-badge&logo=vercel&logoColor=white)]([https://pedro-brito-portfolio-5e3khpt6h-pedrogf45s-projects.vercel.app](https://pedro-brito-portfolio.vercel.app))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0C1B?style=for-the-badge&logo=vercel&logoColor=white)](https://pedro-brito-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-brito-272b2a192)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobfh@gmail.com)
 
